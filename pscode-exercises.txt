@@ -12,30 +12,31 @@ print on the screen the sum of those 2 numbers
 
 // Exercise 2: Check if a Number is Even or Odd
 
-list integer 1 to 10
+(list integer 1 to 10
 if integer =1,3,5,7,9 print odd
-else if integer =2,4,6,8,10 print even
+else if integer =2,4,6,8,10 print even)
 
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
 
-a) list integer 1 to 5.
+
+( list integer 1 to 5.
 print integer list a.
-
-
-b) loop integer list a
+loop integer list a
 if 1+2+3+4+5 = print as sum.
 loop sum / 5 = print as average.
-
-c) loop integer list a 
+loop integer list a 
 if integer = 1 print Mininum
 else if = 5  print Maximum
-
-d) loop integer list a = data set
+loop integer list a = data set
 if integer = "average" print average value
 if integer = minimum, maximum print range
-print "pseudo math code"
+print "pseudo math code")
 
 --END--
 
